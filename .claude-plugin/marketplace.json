@@ -1,0 +1,18 @@
+{
+  "name": "rendezvu-claude-plugin",
+  "owner": {
+    "name": "Rendezvu, Inc.",
+    "email": "support@rendezvu.co"
+  },
+  "metadata": {
+    "description": "Rendezvu for Claude: your brand's live Rendezvu data (attributed sales, host performance, funnel, campaigns, gifting), read only.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "rendezvu",
+      "source": "./",
+      "description": "Connects Claude to your brand's live Rendezvu data. Read only, scoped to the brands you administer."
+    }
+  ]
+}

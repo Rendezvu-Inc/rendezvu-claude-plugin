@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "rendezvu": {
+      "type": "http",
+      "url": "https://api.rendezvu.co/mcp"
+    }
+  }
+}

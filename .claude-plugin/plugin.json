@@ -1,0 +1,13 @@
+{
+  "name": "rendezvu",
+  "version": "1.0.0",
+  "description": "Connects Claude to your brand's live Rendezvu data: attributed sales, host performance, the conversion funnel, campaigns and gifting. Read only, scoped to the brands you administer, with a skill for building a performance recap.",
+  "author": {
+    "name": "Rendezvu, Inc.",
+    "email": "support@rendezvu.co",
+    "url": "https://www.rendezvu.co"
+  },
+  "homepage": "https://www.rendezvu.co/docs/brands/integrations/mcp",
+  "license": "MIT",
+  "keywords": ["rendezvu", "brand analytics", "ambassadors", "affiliate", "outdoor", "endurance"]
+}
