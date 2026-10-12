@@ -1,6 +1,7 @@
 {
   "name": "rendezvu",
-  "version": "1.0.0",
+  "displayName": "Rendezvu",
+  "version": "1.0.1",
   "description": "Connects Claude to your brand's live Rendezvu data: attributed sales, host performance, the conversion funnel, campaigns and gifting. Read only, scoped to the brands you administer, with a skill for building a performance recap.",
   "author": {
     "name": "Rendezvu, Inc.",
@@ -8,6 +9,19 @@
     "url": "https://www.rendezvu.co"
   },
   "homepage": "https://www.rendezvu.co/docs/brands/integrations/mcp",
+  "repository": "https://github.com/Rendezvu-Inc/rendezvu-claude-plugin",
   "license": "MIT",
-  "keywords": ["rendezvu", "brand analytics", "ambassadors", "affiliate", "outdoor", "endurance"]
+  "keywords": [
+    "rendezvu",
+    "brand analytics",
+    "ambassadors",
+    "affiliate",
+    "outdoor",
+    "endurance"
+  ],
+  "icon": "./logo.png",
+  "documentationUrl": "https://www.rendezvu.co/docs/brands/integrations/mcp",
+  "supportUrl": "https://www.rendezvu.co/support",
+  "privacyPolicyUrl": "https://www.rendezvu.co/privacy-policy#ai-connectors",
+  "termsOfServiceUrl": "https://www.rendezvu.co/terms-and-conditions#ai-connectors"
 }

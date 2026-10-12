@@ -1,4 +1,4 @@
-# Rendezvu for Claude
+# Rendezvu
 
 Rendezvu is the platform outdoor and endurance brands use to work with the athletes ("hosts") who recommend their gear. This plugin connects Claude to your brand's live Rendezvu data so you can ask about it in plain language: which hosts drove sales, how your conversion funnel is moving, where each campaign stands, and which gifts have shipped.
 

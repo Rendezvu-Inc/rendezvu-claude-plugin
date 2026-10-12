@@ -6,7 +6,7 @@
   },
   "metadata": {
     "description": "Rendezvu for Claude: your brand's live Rendezvu data (attributed sales, host performance, funnel, campaigns, gifting), read only.",
-    "version": "1.0.0"
+    "version": "1.0.1"
   },
   "plugins": [
     {
